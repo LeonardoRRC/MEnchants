@@ -1,0 +1,7 @@
+name: MEnchants
+version: '1.0-SNAPSHOT'
+main: me.meowquantum.com.menchants.MEnchants
+depend:
+  - Vault
+commands:
+  encantamientos:

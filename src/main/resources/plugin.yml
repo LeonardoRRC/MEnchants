@@ -1,0 +1,7 @@
+name: MEnchants
+version: '${project.version}'
+main: me.meowquantum.com.menchants.MEnchants
+depend:
+  - Vault
+commands:
+  encantamientos:
